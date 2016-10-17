@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skin_colorPrimary">#522F54</color>//toolbar
+    <color name="skin_colorPrimaryDark">#4c2e4e</color>
+    <color name="skin_colorAccent">#FF4081</color>
+    <color name="skin_navigationBarColor">#8E7E91</color>
+    <color name="skin_windowBackground_dark">#63395d</color>
+    <color name="skin_windowBackground">#6A3B63</color>
+    <color name="skin_windowBackground2">#3d3055</color>
+    <color name="skin_primaryText">#FFFFFF</color>
+    <color name="skin_secondaryText">#a4a3a3</color>
+    <color name="skin_primaryTextDark">#5c5c5c</color>
+    <color name="skin_secondaryTextDark">#79000000</color>
+
+    <color name="skin_navTextColor">#CDCDCD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="indicateLine">#ab8ca1</color>
+    <color name="white_gray">#dddddd</color>
+    <color name="skin_subject_color">#f069c987</color>
+    <color name="transparency">#00000000</color>
+    <color name="textview_hint">#70522F54</color>
+    <color name="transparency2">#70000000</color>
+
+    <color name="skin_secondMainColor">#3F345A</color>
+    <color name="skin_secondLightColor">#554869</color>
+    <color name="skin_userinfo_line">#A1A3AD</color>
+    <color name="recycler_color1">#c79a9a</color>
+    <color name="recycler_color2">#f2e15f</color>
+    <color name="recycler_color3">#57acf7</color>
+    <color name="recycler_color4">#fd0a12</color>
+
+    <color name="exam_background">#aaffc000</color>
+
+    <color name="skin_colorPrimary_light">#0074d9</color>
+    <color name="skin_colorPrimaryDark_light">#9db999</color>
+    <color name="skin_colorAccent_light">#40ff40</color>
+    <color name="skin_navigationBarColor_light">#00aaff</color>
+    <color name="skin_windowBackground_light">#FFFFFF</color>
+    <color name="skin_windowBackground_dark_light">#f2ecec</color>
+    <color name="skin_primaryText_light">#d9212121</color>
+    <color name="skin_primaryTextDark_light">#95252525</color>
+    <color name="skin_secondaryTextDark_light">#df282828</color>
+
+    <color name="skin_secondMainColor_light">#fafafa</color>
+    <color name="skin_secondLightColor_light">#fafafa</color>
+    <color name="skin_secondaryText_light">#727272</color>
+    <color name="skin_navTextColor_light">#505050</color>
+    <color name="skin_subject_color_light">#f081d6b2</color>
+
+    <color name="w_text1">#FFFFFd</color>
+    <color name="w_text1_light">#bbbbbb</color>
+    <color name="w_text2">#bbbbbb</color>
+    <color name="w_text2_light">#6F6F6F</color>
+    <color name="w_text3">#FFFFFd</color>
+    <color name="w_text3_light">#3F3F3F</color>
+    <color name="w_text4">#bbbbbb</color>
+    <color name="w_text4_light">#fffffd</color>
+    <color name="w_text5">#bbbbbb</color>
+    <color name="w_text5_light">#6F6F6F</color>
+    <color name="w_text6">#bbbbbb</color>
+    <color name="w_text6_light">#3F3F3F</color>
+    <color name="w_back1">#522F54</color>
+    <color name="w_back1_light">#FFFFFd</color>
+    <color name="w_back2">#3d3055</color>
+    <color name="w_back2_light">#00b0f0</color>
+    <color name="w_back3">#522F54</color>
+    <color name="w_back3_light">#00b0f0</color>
+    <color name="w_back4">#3d3055</color>
+    <color name="w_back4_light">#FFFFFd</color>
+    <color name="w_back5">#dddddd</color>
+    <color name="w_back5_light">#3F3F3F</color>
+    <color name="w_back6">#522F54</color>
+    <color name="w_back6_light">#FFFFFd</color>
+
+    <color name="font_menu">#69D0D0</color>
+    <color name="font_gray_one">#6F6F6F</color>
+    <color name="w_text7">#000000</color>
+    <color name="w_text7_light">#00b0f0</color>
+
+
+
+    <color name="main_color">#0074d9</color>
+    <color name="bg_color">#efeff4</color>
+    <color name="line_split_color">#c8c7cc</color>
+    <color name="item_pre">#d9d9d9</color>
+
+    <color name="black">#000000</color>
+    <color name="font_color_gray_1">#333333</color>
+    <color name="font_color_gray_2">#666666</color>
+    <color name="font_color_gray_3">#999999</color>
+    <color name="font_color_gray_4">#CCCCCC</color>
+    <color name="bg_yellow">#f2e15f</color>
+    <color name="font_color_red">#c30d23</color>
+
+
+    <color name="page1">#ED5565</color>
+    <color name="page2">#A0D468</color>
+    <color name="page3">#48CFAD</color>
+    <color name="page4">#AC92EC</color>
+
+    <color name="bg_record_1">#2ECC40</color>
+    <color name="bg_record_2">#5D9CEC</color>
+    <color name="bg_record_3">#ED5565</color>
+
+    <color name="btntextcolor">#ff1E90FF</color><!--dialog中按钮字体颜色 -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="question_back">#5873E9</color>
+    <color name="question_yellow_back">#FFCE54</color>
+    <color name="red_doc">#CC1B02</color>
+    <color name="bg_body">#F2F2F2</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
